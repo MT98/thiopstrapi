@@ -33,9 +33,4 @@ Au cas où le serveur échoue dans le démarrage, supprimer le dossier .tmp et d
 Vous devriez avoir un résultat similaire:    
 ![Démarrage serveur réussie](https://drive.google.com/uc?id=10iMChxQ-cZaGgI9_k6m9Kbf7ePvEtK3V)
 
-### 5. Configuration au navigateur    
-Utilisez votre navigateur et aller à l'adresse http://localhost:1337/admin afin de créer votre compte admin.
-Aprés connexion, vous verrez les modèles déjà créés dans le menu. Comme suit:    
-![Modèles pré-éxistants](https://drive.google.com/uc?id=12o4FWpqRxHbcvcGu0vtIYRL_DL9062QJ)
-
 
