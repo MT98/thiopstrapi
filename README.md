@@ -10,7 +10,8 @@ Pour ce faire, placez-vous dans votre repertoire de base et **taper les commande
 
 * ```npm -g uninstall strapi --save``` pour désinstaller l'installation existante de strapi afin d'installer une version alpha globale. 
 * Consulter le dossier node_modules contenant les packages globales du gestionnaire de paquets (%AppData%\Roaming\npm pour windows) et supprimer le dossier strapi s'il est toujours là.    
-* ```npm install strapi@alpha -g``` pour installer la version alpha strapi de manière globale.    
+* ```npm install strapi@alpha -g``` pour installer la version alpha strapi de manière globale. 
+* ```npm install sqlite3 ```
 * ```strapi new thiopstrapi --quickstart``` pour créer le nouveau projet strapi définissant notre serveur backend.
     
 ### 2. Téléchargement et décompression
