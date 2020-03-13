@@ -37,5 +37,13 @@ Vous devriez avoir un résultat similaire:
 Utilisez votre navigateur et aller à l'adresse http://localhost:1337/admin afin de créer votre compte admin.
 Aprés connexion, vous verrez les modèles déjà créés dans le menu. Comme suit:    
 ![Modèles pré-éxistants](https://drive.google.com/uc?id=12o4FWpqRxHbcvcGu0vtIYRL_DL9062QJ)
+    
+Maintenant dans le menu, aller dans Rôles et autorisations. Puis cliquer sur public dans la page affiché.    
+Cocher "Tout cocher" pour chaque modèle. Puis sauvegarder la configuration.
+
+
+### 6. Tester les webservices
+Aller à l'adresse http://localhost:1337/Plats. Vous devriez obtenir un tableau vide comme suit:    
+![Requêtes plats](https://drive.google.com/open?id=1r6VK5OKSxnzT4vhKdMV0IwQbWWebS6ej)    
 
 
