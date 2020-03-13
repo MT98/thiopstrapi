@@ -27,4 +27,6 @@ Pour redemarrer le serveur du dossier installé à l'étape 1:
 * ```cd thiopstrapi``` pour se placer dans le repertoire de base du dossier installé.
 * ```strapi start``` pour le démarrer.    
 
+Au cas où le serveur échoue dans le démarrage, supprimer le dossier .tmp et demmarer le server.
+
 ### 5. Configuration au navigateur
