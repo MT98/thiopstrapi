@@ -23,10 +23,11 @@ Ce qui vous permettra de disposer de l'ensemble des webservices et modèles cré
 
 ### 4. Redemarrage du serveur strapi
 Pour redemarrer le serveur du dossier installé à l'étape 1:
-* Taper Ctrl-C en ligne de commande pour arrêter le serveur.    
+* Taper Ctrl-C en ligne de commande pour arrêter le serveur.  
+* Assurer vous que le port 1337 n'est pas toujours occupé par un processus. 
 * ```cd thiopstrapi``` pour se placer dans le repertoire de base du dossier installé.
 * ```strapi start``` pour le démarrer.    
 
-Au cas où le serveur échoue dans le démarrage, supprimer le dossier .tmp et demarrer le server. S'il s'agit cependant d'un probléme de ports, il faudra arrêter le processus s'exécutant actuellement sur ce port pour redémarrer.
+Au cas où le serveur échoue dans le démarrage, supprimer le dossier .tmp et démarrer le server.
 
 ### 5. Configuration au navigateur
