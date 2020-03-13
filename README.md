@@ -36,6 +36,6 @@ Vous devriez avoir un résultat similaire:
 ### 5. Configuration au navigateur    
 Utilisez votre navigateur et aller à l'adresse http://localhost:1337/admin afin de créer votre compte admin.
 Aprés connexion, vous verrez les modèles déjà créés dans le menu. Comme suit:    
-![Modèles pré-éxistants](https://drive.google.com/open?id=12o4FWpqRxHbcvcGu0vtIYRL_DL9062QJ)
+![Modèles pré-éxistants](https://drive.google.com/uc?id=12o4FWpqRxHbcvcGu0vtIYRL_DL9062QJ)
 
 
