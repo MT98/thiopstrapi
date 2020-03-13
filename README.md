@@ -8,6 +8,7 @@ Ce projet constitue le **serveur backend** de notre application ionic du reposit
 Il faut d'abord installer la structure d'un projet strapi de manière globale. C'est la manière la plus simple d'éviter les problémes de dépendances de bibliothéques à l'intégration du projet strapi aprés l'avoir téléchargé du dépôt github.    
 Pour ce faire, placez-vous dans votre repertoire de base et **taper les commandes suivantes:**    
 ```
+npm -g uninstall strapi --save
 npm install strapi@alpha -g
 strapi new thiopstrapi --quickstart
 ```
