@@ -30,4 +30,5 @@ Pour redemarrer le serveur du dossier installé à l'étape 1:
 
 Au cas où le serveur échoue dans le démarrage, supprimer le dossier .tmp et démarrer le server.
 
+![Démarrage serveur réussie](https://drive.google.com/uc?id=10iMChxQ-cZaGgI9_k6m9Kbf7ePvEtK3V)
 ### 5. Configuration au navigateur
