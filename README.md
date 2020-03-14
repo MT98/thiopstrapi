@@ -47,7 +47,7 @@ Cocher "Tout cocher" pour chaque modèle. Puis sauvegarder la configuration.
 
 ### 6. Tester les webservices
 Aller à l'adresse http://localhost:1337/Plats. Vous devriez obtenir un tableau vide comme suit:    
-![Requêtes plats](https://drive.google.com/open?id=1r6VK5OKSxnzT4vhKdMV0IwQbWWebS6ej)    
+![Requêtes plats](https://drive.google.com/uc?id=1r6VK5OKSxnzT4vhKdMV0IwQbWWebS6ej)    
 
 Il va falloir maintenant remplir notre base de données. Et c'est là qu'entre en jeu notre application cliente développée avec ionic. Je vous invite donc à aller au repository https://github.com/MT98/thiop.
 
