@@ -1,6 +1,6 @@
 # Thiopstrapi    
 
-Ce projet constitue le **serveur backend** de notre application ionic du repository (https://github.com/MT98/thiop). Il contient la base de données **SQLite** permettant de stocker les données de l'application et l'ensemble des **webservices** permettant d'effectuer des requêtes Http à partir de notre application ionic cliente précitée. Ce serveur backend a été facilement créé grâce à la plateforme **strapi**.    
+Ce projet constitue le **serveur backend** de notre application ionic du repository (https://github.com/mohadoum/thiop). Il contient la base de données **SQLite** permettant de stocker les données de l'application et l'ensemble des **webservices** permettant d'effectuer des requêtes Http à partir de notre application ionic cliente précitée. Ce serveur backend a été facilement créé grâce à la plateforme **strapi**.    
     
     
     
